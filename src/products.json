@@ -1,0 +1,44 @@
+{
+    "01": {
+        "id": "01",
+        "title": "Apple iPhone 15 128GB Черный",
+        "imageURL": "https://krasnodar.shop.megafon.ru/images/goods/1776/177647_p_20.png",
+        "price": 128999
+    },
+    "02": {
+        "id": "02",
+        "title": "Apple iPhone 15 128GB Черный Титан",
+        "imageURL": "https://krasnodar.shop.megafon.ru/images/goods/1776/177629_p_20.png",
+        "price": 118999
+    },
+    "03": {
+        "id": "03",
+        "title": "Apple iPhone 15 128GB Синий Титан",
+        "imageURL": "https://krasnodar.shop.megafon.ru/images/goods/1776/177649_p_20.png",
+        "price": 108999
+    },
+    "04": {
+        "id": "04",
+        "title": "Apple iPhone 15 128GB Натуральный Титан",
+        "imageURL": "https://krasnodar.shop.megafon.ru/images/goods/1776/177654_p_20.png",
+        "price": 159999
+    },
+    "05": {
+        "id": "05",
+        "title": "Apple iPhone 15 128GB Розовый",
+        "imageURL": "https://krasnodar.shop.megafon.ru/images/goods/1777/177755_p_20.png",
+        "price": 90999
+    },
+    "06": {
+        "id": "06",
+        "title": "Apple iPhone 15 128GB Синий",
+        "imageURL": "https://krasnodar.shop.megafon.ru/images/goods/1775/177592_p_20.png",
+        "price": 145600
+    },
+    "07": {
+        "id": "07",
+        "title": "Apple iPhone 15 128GB Синий Титан",
+        "imageURL": "https://krasnodar.shop.megafon.ru/images/goods/1776/177637_p_20.png",
+        "price": 178999
+    }
+}
